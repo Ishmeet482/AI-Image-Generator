@@ -4,4 +4,4 @@ Effortlessly craft unique digital art with HTML, CSS, and JS-powered AI. Get cre
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](Screenshot(101.png)
+![](Screenshot(101).png)
