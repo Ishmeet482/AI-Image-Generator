@@ -2,6 +2,6 @@
 Effortlessly craft unique digital art with HTML, CSS, and JS-powered AI. Get creative! 🎨
 
 # Screenshot
-Here we have project screenshot :
+project screenshot :
 
-![](Screenshot(101).png)
+![](Screenshot%20(101).png)
